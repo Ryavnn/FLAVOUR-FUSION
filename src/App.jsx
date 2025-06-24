@@ -1,4 +1,5 @@
 import Categories from "./components/Categories"
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Navbar from "./components/Navbar"
 import Trending from "./components/Trending"
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <Trending />
       <Categories />
+      <Footer />
     </>
   )
 }

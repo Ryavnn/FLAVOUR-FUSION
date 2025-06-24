@@ -3,7 +3,7 @@ import React from "react";
 const Trending = () => {
   return (
     <>
-      <div className="w-full h-80  flex justify-center items-center">
+      <div className="w-full min-h-80  flex justify-center items-center mb-4">
         <div className="w-[90%] h-full">
           <h1 className="text-3xl font-bold">Trending Recipes</h1>
           <div className="w-full flex gap-3 flex-col justify-center items-center mt-5 md:flex-row md:justify-between">

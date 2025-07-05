@@ -8,7 +8,7 @@ const Header = () => {
         <h1 className="text-6xl text-white font-extrabold text-center space-y-2 mt-5">
           Discover your next cullinary<br></br> adventure
         </h1>
-        <p className="text-center mt-5">
+        <p className="text-center text-white mt-5">
           Explore thousands of recipes, personalized just for you. From quick
           weeknight dinners to gourmet<br></br> weekend feasts, find your
           perfect dish

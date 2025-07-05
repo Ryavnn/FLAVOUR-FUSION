@@ -9,15 +9,15 @@ const categories = [
   },
   {
     label: "Vegan meals",
-    img: "https://images.unsplash.com/photo-1521302080334-4bebac276b64",
+    img: "https://images.immediate.co.uk/production/volatile/sites/30/2023/01/Ponzu-tofu-poke-bowl-8733c67.jpg?quality=90&resize=440,400",
   },
   {
     label: "Budget-friendly",
-    img: "https://images.unsplash.com/photo-1562967916-eb82221dfb36",
+    img: "https://hips.hearstapps.com/hmg-prod/images/cheap-dinner-ideas-air-fryer-chicken-thighs-65a01fed3f528.jpeg?crop=1xw:1xh;center,top&resize=980:*",
   },
   {
     label: "Gluten-Free",
-    img: "https://images.unsplash.com/photo-1584270354949-1f3d8a1ef5af",
+    img: "https://www.eatingwell.com/thmb/O0EjBleCjGHHmQpILjUoL7KRCyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7032137-8a6db525972c4aeabdac3aff103213a0.jpg",
   },
   {
     label: "One Pot Meals",
@@ -25,11 +25,11 @@ const categories = [
   },
   {
     label: "Comfort Food",
-    img: "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38",
+    img: "https://www.marthastewart.com/thmb/ho-sH1jsFdmlOrLs_AmPLI5ozm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fried-chicken-waffles-102846834_0-e02c36509049467bac6d8ab074c05c5e.jpg",
   },
   {
     label: "Meal Prep",
-    img: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2",
+    img: "https://www.bodystreet.com/api/v1/static/images/artikel/2021/April/iStock-1136168094_large.jpg",
   },
 ];
 
